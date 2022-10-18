@@ -1,5 +1,7 @@
 # append-on-merge-action
 
+See <https://github.com/narze/append_on_merge>
+
 Github Action to append to file only when PR in a specific folder is merged, preventing conflicts
 
 ## Workflow
